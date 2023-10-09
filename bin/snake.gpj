@@ -1,0 +1,29 @@
+!1514;s
+J
+SAU0JGRASP_MAIN_BOUNDS=%<CONTROL_SHELL_BOUNDS>\012PATH+=%<JGRASP_PATHS>%;\012PATH=+%;%<JGRASP_C_PATHS>\012CYGWIN=nodosfilewarning\012GCC_COLORS=\012-Run\012ADD_EXE_PATH==Y\012
+SCU0JGRASP_MAIN_BOUNDS=%<CONTROL_SHELL_BOUNDS>\012PATH+=%<JGRASP_PATHS>%;\012PATH=+%;%<JGRASP_C_PATHS>\012CYGWIN=nodosfilewarning\012GCC_COLORS=\012-Run\012ADD_EXE_PATH==Y\012
+S+U0JGRASP_MAIN_BOUNDS=%<CONTROL_SHELL_BOUNDS>\012PATH+=%<JGRASP_PATHS>%;\012PATH=+%;%<JGRASP_C_PATHS>\012CYGWIN=nodosfilewarning\012GCC_COLORS=\012-Run\012ADD_EXE_PATH==Y\012
+SJU0JGRASP_MAIN_BOUNDS=%<CONTROL_SHELL_BOUNDS>\012CLASSPATH=+%;%<EXTENSION_CLASSPATHS>\012CLASSPATH+=%<JGRASP_CLASSPATHS>%;\012File\012CLASSPATH+=.%;\012CLASSPATH+=%<SRC_CLASSPATHS>%;\012ProjectOrFile\012PATH+=%<JAVA_BIN_DIR>%;\012PATH+=%<JGRASP_PATHS>%;\012Debug +Debug_Applet\012CLASSPATH=+%;%<INJECTION_CLASSPATHS>\012Compile\012NOT_FOUND_MESSAGE==Make sure you have the full JDK, not just the JRE, installed.\\nThe JDK is available from https://www.oracle.com/technetwork/java/index.html.\012Run_Applet +Debug_Applet\012ADD_APPLETVIEWER_CLASSPATH==Y\012Document\012CLASSPATH=+%;%<TOOL_CLASSPATHS>\012CLASSPATH+=%<CLASSES_DIR>%;\012
+SXU0
+SOU0JGRASP_MAIN_BOUNDS=%<CONTROL_SHELL_BOUNDS>\012PATH+=%<JGRASP_PATHS>%;\012PATH=+%;%<JGRASP_C_PATHS>\012CYGWIN=nodosfilewarning\012GCC_COLORS=\012-Run\012ADD_EXE_PATH==Y\012
+SyU0JGRASP_MAIN_BOUNDS=%<CONTROL_SHELL_BOUNDS>\012PATH+=%<PYTHON_PATH>%;\012PATH+=%<JGRASP_PATHS>%;\012CYGWIN=nodosfilewarning\012GCC_COLORS=
+SPU0
+s#i0
+s#k0
+s#j0
+s#l0
+!2945;d
+[\012  grasp [\012   legendy -46.626984126984084\012   legendx -329.8333333333333\012   version 1\012   winflags 3\012   eheight 810\012   ewidth 720\012   height 810\012   width 720\012   wbp 0\012   initlayout 0\012   yoffs -50.26984126984124\012   xoffs -548.4285714285713\012   scale 1.0\012   args ""\012   otherflags 139\012   shallowjar 1\012   visflags 118423807\012  ]\012  directed 1\012  node [\012   ClassInfo [\012    condition 1\012    access2 0\012    access 2097152\012    classname "Snake"\012    fromclassfiledate 0\012    fromclassfilename "%\011Snake.class"\012    fromfilename "%\011Snake.java"\012   ]\012   id 0\012   graphics [\012    center [\012     x -659.6666666666666\012     y -2.3174603174602737\012     z 0.0\012    ]\012   ]\012   vgj [\012    flags 0\012   ]\012  ]\012  node [\012   ClassInfo [\012    condition 1\012    access2 0\012    access 2097152\012    classname "SnakeGUI"\012    fromclassfiledate 0\012    fromclassfilename "%\011SnakeGUI.class"\012    fromfilename "%\011SnakeGUI.java"\012   ]\012   id 1\012   graphics [\012    center [\012     x -549.6666666666666\012     y -2.3174603174602737\012     z 0.0\012    ]\012   ]\012   vgj [\012    flags 0\012   ]\012  ]\012  node [\012   ClassInfo [\012    condition 1\012    access2 0\012    access 512\012    classname "SnakeInterface"\012    fromclassfiledate 0\012    fromclassfilename "%\011SnakeInterface.class"\012    fromfilename "%\011SnakeInterface.java"\012   ]\012   id 2\012   graphics [\012    center [\012     x -431.66666666666663\012     y -2.3174603174602737\012     z 0.0\012    ]\012   ]\012   vgj [\012    flags 0\012   ]\012  ]\012  node [\012   ClassInfo [\012    condition 1\012    access2 0\012    access 2097152\012    classname "SnakeSettings"\012    fromclassfiledate 0\012    fromclassfilename "%\011SnakeSettings.class"\012    fromfilename "%\011SnakeSettings.java"\012   ]\012   id 3\012   graphics [\012    center [\012     x -305.66666666666663\012     y -2.3174603174602737\012     z 0.0\012    ]\012   ]\012   vgj [\012    flags 0\012   ]\012  ]\012  node [\012   ClassInfo [\012    condition 1\012    access2 0\012    access 2097152\012    classname "SnakeSettingsPanel"\012    fromclassfiledate 0\012    fromclassfilename "%\011SnakeSettingsPanel.class"\012    fromfilename "%\011SnakeSettingsPanel.java"\012   ]\012   id 4\012   graphics [\012    center [\012     x -163.66666666666663\012     y -2.3174603174602737\012     z 0.0\012    ]\012   ]\012   vgj [\012    flags 0\012   ]\012  ]\012  node [\012   ClassInfo [\012    condition 1\012    access2 0\012    access 2097152\012    classname "SnakeTile"\012    fromclassfiledate 0\012    fromclassfilename "%\011SnakeTile.class"\012    fromfilename "%\011SnakeTile.java"\012   ]\012   id 5\012   graphics [\012    center [\012     x -29.66666666666663\012     y -2.3174603174602737\012     z 0.0\012    ]\012   ]\012   vgj [\012    flags 0\012   ]\012  ]\012 ]!133;g
+%\011Snake.java
+%\011SnakeGUI.java
+%\011SnakeSettings.java
+%\011SnakeInterface.java
+%\011SnakeSettingsPanel.java
+%\011SnakeTile.java
+!133;f
+%\011Snake.java
+%\011SnakeGUI.java
+%\011SnakeSettings.java
+%\011SnakeInterface.java
+%\011SnakeSettingsPanel.java
+%\011SnakeTile.java
